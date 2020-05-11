@@ -1,0 +1,13 @@
+C:\Users\Syed\Desktop\C#Review\bin\Debug\netcoreapp3.1\C#Review.exe
+C:\Users\Syed\Desktop\C#Review\bin\Debug\netcoreapp3.1\C#Review.deps.json
+C:\Users\Syed\Desktop\C#Review\bin\Debug\netcoreapp3.1\C#Review.runtimeconfig.json
+C:\Users\Syed\Desktop\C#Review\bin\Debug\netcoreapp3.1\C#Review.runtimeconfig.dev.json
+C:\Users\Syed\Desktop\C#Review\bin\Debug\netcoreapp3.1\C#Review.dll
+C:\Users\Syed\Desktop\C#Review\bin\Debug\netcoreapp3.1\C#Review.pdb
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.csprojAssemblyReference.cache
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.csproj.CoreCompileInputs.cache
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.AssemblyInfoInputs.cache
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.AssemblyInfo.cs
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.dll
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.pdb
+C:\Users\Syed\Desktop\C#Review\obj\Debug\netcoreapp3.1\C#Review.genruntimeconfig.cache
